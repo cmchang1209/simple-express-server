@@ -3,7 +3,7 @@ const app = express()
 
 // reply to request with "Hello World!"
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello CmChang!')
 })
 
 // start a server on port 8080
